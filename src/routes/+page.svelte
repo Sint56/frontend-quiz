@@ -1,4 +1,4 @@
-<h1 class="text-5xl text-red-500">Homepage with Tailwind</h1>
+<h1 class="text-5xl text-green-700">Homepage with Tailwind</h1>
 
 <!-- Open the modal using ID.showModal() method -->
 <button class="btn" onclick="my_modal_1.showModal()">...and DaisyUI (click)</button>
